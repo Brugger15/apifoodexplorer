@@ -25,18 +25,7 @@ Você pode testar a aplicação <a href="https://foodexplorer-api-mu0y.onrender.
 
 ---
 
-## ⚙️ Funcionalidades
 
-  - [x] Função de Login e cadastro.
-  - [x] Função de fazer seu próprio pedido
-  - [x] Função de admin para fazer um prato para por a venda
-  - [x] Função de pratos favoritos
-  - [x] Excluir prato (admin)
-  - [x] Logout
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  
-
----
 
 
 
