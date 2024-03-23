@@ -97,8 +97,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </table>
 
 
----
-
 ## 🦸 Autor
 
 
